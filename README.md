@@ -1,4 +1,4 @@
-# JavaScript Objects and Arrays
+ # JavaScript Objects and Arrays
 
 ## Getting Started
 
