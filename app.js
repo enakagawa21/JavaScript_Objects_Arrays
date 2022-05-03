@@ -31,3 +31,12 @@ console.log(arraySum(numbers))
 console.log("EXERCISE 2:\n==========\n");
 
 
+const books = {
+     name:["Title of book"],
+     pages: [289],
+     readCount: [50054]
+}
+books.info =
+    ("This book is called " + books.name + " ,the book has " + books.pages + " pages. " + books.readCount + " people have read this book.")
+
+    console.log(books.info)
